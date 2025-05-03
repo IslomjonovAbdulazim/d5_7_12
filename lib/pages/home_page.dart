@@ -10,8 +10,10 @@ class HomePage extends StatelessWidget {
       body: SafeArea(
         child: Padding(
           padding: EdgeInsets.all(20),
-          child: Column(
-            children: [],
+          child: Center(
+            child: Column(
+              children: [],
+            ),
           ),
         ),
       ),
